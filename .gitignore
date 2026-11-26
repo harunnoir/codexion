@@ -1,0 +1,12 @@
+# Build artifacts
+codexion
+*.o
+*.d
+
+# Editor / tooling caches
+.cache/
+compile_commands.json
+en.subject.pdf
+
+# OS junk
+.DS_Store
